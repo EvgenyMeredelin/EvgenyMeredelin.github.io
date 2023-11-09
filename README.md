@@ -4,6 +4,8 @@
 <code>exploratory data analysis</code> <code>statistical hypothesis testing</code> <code>object-oriented programming</code> <code>pandas</code> <code>numpy</code> <code>scipy</code> <code>seaborn</code>
 
 ## Нейронная сеть в задаче прогнозирования спроса на услуги такси
+Для просмотра диаграмм bokeh ноутбук ipynb или приложенный к нему HTML-рендер ноутбука необходимо скачать — вьювер ноутбуков гитхаба пока не умеет отображать bokeh.
+
 <code>time series forecasting</code> <code>N-BEATS</code> <code>darts</code> <code>bokeh</code> <code>geopandas</code> <code>pyarrow</code> <code>object-oriented programming</code>
 
 ## Поиск эффективных локаций размещения рекламных щитов с помощью кластеризации
