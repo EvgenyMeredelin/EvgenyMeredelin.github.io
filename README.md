@@ -7,7 +7,7 @@
 * [Все дипломы и сертификаты](https://github.com/EvgenyMeredelin/portfolio/tree/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D1%8B%20%D0%B8%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B).
 
 ## Резюме
-<a href="https://spb.hh.ru/resume/577e28e5ff08755fe70039ed1f524865336c6b">Headhunter</a>
+* <a href="https://spb.hh.ru/resume/577e28e5ff08755fe70039ed1f524865336c6b">Headhunter</a>
 
 ## Портфолио
 
