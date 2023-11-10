@@ -1,4 +1,4 @@
-<center>![Евгений Меределин](/assets/images/avatar.jpg)</center>
+<center><img src="/assets/images/avatar.jpg" alt="Евгений Меределин" height="672" width="504"></center>
 
 ## Образование
 
