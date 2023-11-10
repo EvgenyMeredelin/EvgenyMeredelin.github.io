@@ -1,4 +1,5 @@
 title: Евгений Меределин
 logo: /assets/images/avatar.jpg
 description: meredelin@gmail.com
-theme: modernist
+remote_theme: pages-themes/modernist@v0.2.0
+#theme: jekyll-theme-minimal
