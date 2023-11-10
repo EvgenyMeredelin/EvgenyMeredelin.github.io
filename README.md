@@ -1,4 +1,4 @@
-<center><img src="/assets/images/avatar.jpg" alt="Евгений Меределин" height="672" width="504"></center>
+<center><img src="/assets/images/avatar.jpg" alt="Евгений Меределин" height="336" width="252"></center>
 
 ## Образование
 
